@@ -1,0 +1,15 @@
+body{
+  background-color: lightskyblue;
+}
+
+.caja{
+  background-color: yellow;
+  margin: 20px;
+}
+
+.centrada{
+  background-color: green;
+  width: 400px;
+  padding: 20px;
+  align-content: right;
+}
